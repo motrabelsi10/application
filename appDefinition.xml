@@ -1,4 +1,5 @@
 <appDefinition>
+   <appId>application</appId>
    <id>application</id>
    <version></version>
    <name>application</name>
